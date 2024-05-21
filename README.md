@@ -1,0 +1,1 @@
+Hello this chess game is in progress but for the most part currently functions as a two player chess games sans castling and en passant. Future plans include a computer player and the missing functions.
